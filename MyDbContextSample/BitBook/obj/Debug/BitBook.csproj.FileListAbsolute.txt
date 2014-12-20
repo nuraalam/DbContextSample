@@ -1,0 +1,89 @@
+C:\Users\Hafiz\Desktop\BitBook MVC\Seccond Version\BitBook\BitBook\bin\BitBook.dll.config
+C:\Users\Hafiz\Desktop\BitBook MVC\Seccond Version\BitBook\BitBook\bin\BitBook.dll
+C:\Users\Hafiz\Desktop\BitBook MVC\Seccond Version\BitBook\BitBook\bin\BitBook.pdb
+C:\Users\Hafiz\Desktop\BitBook MVC\Seccond Version\BitBook\BitBook\bin\Antlr3.Runtime.dll
+C:\Users\Hafiz\Desktop\BitBook MVC\Seccond Version\BitBook\BitBook\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Hafiz\Desktop\BitBook MVC\Seccond Version\BitBook\BitBook\bin\Newtonsoft.Json.dll
+C:\Users\Hafiz\Desktop\BitBook MVC\Seccond Version\BitBook\BitBook\bin\System.Web.Helpers.dll
+C:\Users\Hafiz\Desktop\BitBook MVC\Seccond Version\BitBook\BitBook\bin\System.Web.Mvc.dll
+C:\Users\Hafiz\Desktop\BitBook MVC\Seccond Version\BitBook\BitBook\bin\System.Web.Optimization.dll
+C:\Users\Hafiz\Desktop\BitBook MVC\Seccond Version\BitBook\BitBook\bin\System.Web.Razor.dll
+C:\Users\Hafiz\Desktop\BitBook MVC\Seccond Version\BitBook\BitBook\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Hafiz\Desktop\BitBook MVC\Seccond Version\BitBook\BitBook\bin\System.Web.WebPages.dll
+C:\Users\Hafiz\Desktop\BitBook MVC\Seccond Version\BitBook\BitBook\bin\System.Web.WebPages.Razor.dll
+C:\Users\Hafiz\Desktop\BitBook MVC\Seccond Version\BitBook\BitBook\bin\WebGrease.dll
+C:\Users\Hafiz\Desktop\BitBook MVC\Seccond Version\BitBook\BitBook\bin\System.Web.Helpers.xml
+C:\Users\Hafiz\Desktop\BitBook MVC\Seccond Version\BitBook\BitBook\bin\System.Web.Mvc.xml
+C:\Users\Hafiz\Desktop\BitBook MVC\Seccond Version\BitBook\BitBook\bin\System.Web.Optimization.xml
+C:\Users\Hafiz\Desktop\BitBook MVC\Seccond Version\BitBook\BitBook\bin\System.Web.Razor.xml
+C:\Users\Hafiz\Desktop\BitBook MVC\Seccond Version\BitBook\BitBook\bin\System.Web.WebPages.xml
+C:\Users\Hafiz\Desktop\BitBook MVC\Seccond Version\BitBook\BitBook\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Hafiz\Desktop\BitBook MVC\Seccond Version\BitBook\BitBook\bin\System.Web.WebPages.Razor.xml
+C:\Users\Hafiz\Desktop\BitBook MVC\Seccond Version\BitBook\BitBook\bin\Newtonsoft.Json.xml
+C:\Users\Hafiz\Desktop\BitBook MVC\Seccond Version\BitBook\BitBook\bin\Antlr3.Runtime.pdb
+C:\Users\Hafiz\Desktop\BitBook MVC\Seccond Version\BitBook\BitBook\obj\Debug\BitBook.dll
+C:\Users\Hafiz\Desktop\BitBook MVC\Seccond Version\BitBook\BitBook\obj\Debug\BitBook.pdb
+C:\Users\Hafiz\Desktop\BitBook MVC\Seccond Version\BitBook\BitBook\bin\EntityFramework.dll
+C:\Users\Hafiz\Desktop\BitBook MVC\Seccond Version\BitBook\BitBook\bin\EntityFramework.SqlServer.dll
+C:\Users\Hafiz\Desktop\BitBook MVC\Seccond Version\BitBook\BitBook\bin\EntityFramework.xml
+C:\Users\Hafiz\Desktop\BitBook MVC\Seccond Version\BitBook\BitBook\bin\EntityFramework.SqlServer.xml
+C:\Users\PC21\Desktop\BitBook MVC\Seccond Version\BitBook\BitBook\bin\BitBook.dll.config
+C:\Users\PC21\Desktop\BitBook MVC\Seccond Version\BitBook\BitBook\bin\BitBook.dll
+C:\Users\PC21\Desktop\BitBook MVC\Seccond Version\BitBook\BitBook\bin\BitBook.pdb
+C:\Users\PC21\Desktop\BitBook MVC\Seccond Version\BitBook\BitBook\bin\Antlr3.Runtime.dll
+C:\Users\PC21\Desktop\BitBook MVC\Seccond Version\BitBook\BitBook\bin\EntityFramework.dll
+C:\Users\PC21\Desktop\BitBook MVC\Seccond Version\BitBook\BitBook\bin\EntityFramework.SqlServer.dll
+C:\Users\PC21\Desktop\BitBook MVC\Seccond Version\BitBook\BitBook\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\PC21\Desktop\BitBook MVC\Seccond Version\BitBook\BitBook\bin\Newtonsoft.Json.dll
+C:\Users\PC21\Desktop\BitBook MVC\Seccond Version\BitBook\BitBook\bin\System.Web.Helpers.dll
+C:\Users\PC21\Desktop\BitBook MVC\Seccond Version\BitBook\BitBook\bin\System.Web.Mvc.dll
+C:\Users\PC21\Desktop\BitBook MVC\Seccond Version\BitBook\BitBook\bin\System.Web.Optimization.dll
+C:\Users\PC21\Desktop\BitBook MVC\Seccond Version\BitBook\BitBook\bin\System.Web.Razor.dll
+C:\Users\PC21\Desktop\BitBook MVC\Seccond Version\BitBook\BitBook\bin\System.Web.WebPages.Deployment.dll
+C:\Users\PC21\Desktop\BitBook MVC\Seccond Version\BitBook\BitBook\bin\System.Web.WebPages.dll
+C:\Users\PC21\Desktop\BitBook MVC\Seccond Version\BitBook\BitBook\bin\System.Web.WebPages.Razor.dll
+C:\Users\PC21\Desktop\BitBook MVC\Seccond Version\BitBook\BitBook\bin\WebGrease.dll
+C:\Users\PC21\Desktop\BitBook MVC\Seccond Version\BitBook\BitBook\bin\EntityFramework.xml
+C:\Users\PC21\Desktop\BitBook MVC\Seccond Version\BitBook\BitBook\bin\EntityFramework.SqlServer.xml
+C:\Users\PC21\Desktop\BitBook MVC\Seccond Version\BitBook\BitBook\bin\System.Web.Helpers.xml
+C:\Users\PC21\Desktop\BitBook MVC\Seccond Version\BitBook\BitBook\bin\System.Web.Mvc.xml
+C:\Users\PC21\Desktop\BitBook MVC\Seccond Version\BitBook\BitBook\bin\System.Web.Optimization.xml
+C:\Users\PC21\Desktop\BitBook MVC\Seccond Version\BitBook\BitBook\bin\System.Web.Razor.xml
+C:\Users\PC21\Desktop\BitBook MVC\Seccond Version\BitBook\BitBook\bin\System.Web.WebPages.xml
+C:\Users\PC21\Desktop\BitBook MVC\Seccond Version\BitBook\BitBook\bin\System.Web.WebPages.Deployment.xml
+C:\Users\PC21\Desktop\BitBook MVC\Seccond Version\BitBook\BitBook\bin\System.Web.WebPages.Razor.xml
+C:\Users\PC21\Desktop\BitBook MVC\Seccond Version\BitBook\BitBook\bin\Newtonsoft.Json.xml
+C:\Users\PC21\Desktop\BitBook MVC\Seccond Version\BitBook\BitBook\bin\Antlr3.Runtime.pdb
+C:\Users\PC21\Desktop\BitBook MVC\Seccond Version\BitBook\BitBook\obj\Debug\BitBook.csprojResolveAssemblyReference.cache
+C:\Users\PC21\Desktop\BitBook MVC\Seccond Version\BitBook\BitBook\obj\Debug\BitBook.dll
+C:\Users\PC21\Desktop\BitBook MVC\Seccond Version\BitBook\BitBook\obj\Debug\BitBook.pdb
+C:\Users\Hafiz\Desktop\bitbook resources\BitBook\BitBook\bin\BitBook.dll.config
+C:\Users\Hafiz\Desktop\bitbook resources\BitBook\BitBook\bin\BitBook.dll
+C:\Users\Hafiz\Desktop\bitbook resources\BitBook\BitBook\bin\BitBook.pdb
+C:\Users\Hafiz\Desktop\bitbook resources\BitBook\BitBook\bin\Antlr3.Runtime.dll
+C:\Users\Hafiz\Desktop\bitbook resources\BitBook\BitBook\bin\EntityFramework.dll
+C:\Users\Hafiz\Desktop\bitbook resources\BitBook\BitBook\bin\EntityFramework.SqlServer.dll
+C:\Users\Hafiz\Desktop\bitbook resources\BitBook\BitBook\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Hafiz\Desktop\bitbook resources\BitBook\BitBook\bin\Newtonsoft.Json.dll
+C:\Users\Hafiz\Desktop\bitbook resources\BitBook\BitBook\bin\System.Web.Helpers.dll
+C:\Users\Hafiz\Desktop\bitbook resources\BitBook\BitBook\bin\System.Web.Mvc.dll
+C:\Users\Hafiz\Desktop\bitbook resources\BitBook\BitBook\bin\System.Web.Optimization.dll
+C:\Users\Hafiz\Desktop\bitbook resources\BitBook\BitBook\bin\System.Web.Razor.dll
+C:\Users\Hafiz\Desktop\bitbook resources\BitBook\BitBook\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Hafiz\Desktop\bitbook resources\BitBook\BitBook\bin\System.Web.WebPages.dll
+C:\Users\Hafiz\Desktop\bitbook resources\BitBook\BitBook\bin\System.Web.WebPages.Razor.dll
+C:\Users\Hafiz\Desktop\bitbook resources\BitBook\BitBook\bin\WebGrease.dll
+C:\Users\Hafiz\Desktop\bitbook resources\BitBook\BitBook\bin\EntityFramework.xml
+C:\Users\Hafiz\Desktop\bitbook resources\BitBook\BitBook\bin\EntityFramework.SqlServer.xml
+C:\Users\Hafiz\Desktop\bitbook resources\BitBook\BitBook\bin\System.Web.Helpers.xml
+C:\Users\Hafiz\Desktop\bitbook resources\BitBook\BitBook\bin\System.Web.Mvc.xml
+C:\Users\Hafiz\Desktop\bitbook resources\BitBook\BitBook\bin\System.Web.Optimization.xml
+C:\Users\Hafiz\Desktop\bitbook resources\BitBook\BitBook\bin\System.Web.Razor.xml
+C:\Users\Hafiz\Desktop\bitbook resources\BitBook\BitBook\bin\System.Web.WebPages.xml
+C:\Users\Hafiz\Desktop\bitbook resources\BitBook\BitBook\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Hafiz\Desktop\bitbook resources\BitBook\BitBook\bin\System.Web.WebPages.Razor.xml
+C:\Users\Hafiz\Desktop\bitbook resources\BitBook\BitBook\bin\Newtonsoft.Json.xml
+C:\Users\Hafiz\Desktop\bitbook resources\BitBook\BitBook\bin\Antlr3.Runtime.pdb
+C:\Users\Hafiz\Desktop\bitbook resources\BitBook\BitBook\obj\Debug\BitBook.csprojResolveAssemblyReference.cache
+C:\Users\Hafiz\Desktop\bitbook resources\BitBook\BitBook\obj\Debug\BitBook.dll
+C:\Users\Hafiz\Desktop\bitbook resources\BitBook\BitBook\obj\Debug\BitBook.pdb

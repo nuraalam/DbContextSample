@@ -1,0 +1,70 @@
+D:\BASIS\49_BATCH\04-12-2014\source\Project\Project\bin\Project.dll.config
+D:\BASIS\49_BATCH\04-12-2014\source\Project\Project\bin\Project.dll
+D:\BASIS\49_BATCH\04-12-2014\source\Project\Project\bin\Project.pdb
+D:\BASIS\49_BATCH\04-12-2014\source\Project\Project\bin\Antlr3.Runtime.dll
+D:\BASIS\49_BATCH\04-12-2014\source\Project\Project\bin\Microsoft.Web.Infrastructure.dll
+D:\BASIS\49_BATCH\04-12-2014\source\Project\Project\bin\Newtonsoft.Json.dll
+D:\BASIS\49_BATCH\04-12-2014\source\Project\Project\bin\System.Web.Helpers.dll
+D:\BASIS\49_BATCH\04-12-2014\source\Project\Project\bin\System.Web.Mvc.dll
+D:\BASIS\49_BATCH\04-12-2014\source\Project\Project\bin\System.Web.Optimization.dll
+D:\BASIS\49_BATCH\04-12-2014\source\Project\Project\bin\System.Web.Razor.dll
+D:\BASIS\49_BATCH\04-12-2014\source\Project\Project\bin\System.Web.WebPages.Deployment.dll
+D:\BASIS\49_BATCH\04-12-2014\source\Project\Project\bin\System.Web.WebPages.dll
+D:\BASIS\49_BATCH\04-12-2014\source\Project\Project\bin\System.Web.WebPages.Razor.dll
+D:\BASIS\49_BATCH\04-12-2014\source\Project\Project\bin\WebGrease.dll
+D:\BASIS\49_BATCH\04-12-2014\source\Project\Project\bin\System.Web.Helpers.xml
+D:\BASIS\49_BATCH\04-12-2014\source\Project\Project\bin\System.Web.Mvc.xml
+D:\BASIS\49_BATCH\04-12-2014\source\Project\Project\bin\System.Web.Optimization.xml
+D:\BASIS\49_BATCH\04-12-2014\source\Project\Project\bin\System.Web.Razor.xml
+D:\BASIS\49_BATCH\04-12-2014\source\Project\Project\bin\System.Web.WebPages.xml
+D:\BASIS\49_BATCH\04-12-2014\source\Project\Project\bin\System.Web.WebPages.Deployment.xml
+D:\BASIS\49_BATCH\04-12-2014\source\Project\Project\bin\System.Web.WebPages.Razor.xml
+D:\BASIS\49_BATCH\04-12-2014\source\Project\Project\bin\Antlr3.Runtime.pdb
+D:\BASIS\49_BATCH\04-12-2014\source\Project\Project\bin\Newtonsoft.Json.xml
+D:\BASIS\49_BATCH\04-12-2014\source\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+D:\BASIS\49_BATCH\04-12-2014\source\Project\Project\obj\Debug\Project.dll
+D:\BASIS\49_BATCH\04-12-2014\source\Project\Project\obj\Debug\Project.pdb
+D:\BASIS\49_BATCH\04-12-2014\source\Project\Project\bin\EntityFramework.dll
+D:\BASIS\49_BATCH\04-12-2014\source\Project\Project\bin\EntityFramework.SqlServer.dll
+D:\BASIS\49_BATCH\04-12-2014\source\Project\Project\bin\EntityFramework.xml
+D:\BASIS\49_BATCH\04-12-2014\source\Project\Project\bin\EntityFramework.SqlServer.xml
+D:\BASIS\49_BATCH\04-12-2014\source\Project\Project\obj\Debug\Project.Migrations.Deppartments.resources
+D:\BASIS\49_BATCH\04-12-2014\source\Project\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+D:\BASIS\49_BATCH\04-12-2014\source\Project\Project\obj\Debug\Project.Migrations.update_department.resources
+D:\BASIS\49_BATCH\04-12-2014\source\Project\Project\obj\Debug\Project.Migrations.courseInfo.resources
+D:\BASIS\49_BATCH\04-12-2014\source\Project\Project\obj\Debug\Project.Migrations.departmentCourse.resources
+C:\Users\Hafiz\Desktop\Bassis Advance\5-12-2014\Project\Project\bin\Project.dll.config
+C:\Users\Hafiz\Desktop\Bassis Advance\5-12-2014\Project\Project\bin\Project.dll
+C:\Users\Hafiz\Desktop\Bassis Advance\5-12-2014\Project\Project\bin\Project.pdb
+C:\Users\Hafiz\Desktop\Bassis Advance\5-12-2014\Project\Project\bin\Antlr3.Runtime.dll
+C:\Users\Hafiz\Desktop\Bassis Advance\5-12-2014\Project\Project\bin\EntityFramework.dll
+C:\Users\Hafiz\Desktop\Bassis Advance\5-12-2014\Project\Project\bin\EntityFramework.SqlServer.dll
+C:\Users\Hafiz\Desktop\Bassis Advance\5-12-2014\Project\Project\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Hafiz\Desktop\Bassis Advance\5-12-2014\Project\Project\bin\Newtonsoft.Json.dll
+C:\Users\Hafiz\Desktop\Bassis Advance\5-12-2014\Project\Project\bin\System.Web.Helpers.dll
+C:\Users\Hafiz\Desktop\Bassis Advance\5-12-2014\Project\Project\bin\System.Web.Mvc.dll
+C:\Users\Hafiz\Desktop\Bassis Advance\5-12-2014\Project\Project\bin\System.Web.Optimization.dll
+C:\Users\Hafiz\Desktop\Bassis Advance\5-12-2014\Project\Project\bin\System.Web.Razor.dll
+C:\Users\Hafiz\Desktop\Bassis Advance\5-12-2014\Project\Project\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Hafiz\Desktop\Bassis Advance\5-12-2014\Project\Project\bin\System.Web.WebPages.dll
+C:\Users\Hafiz\Desktop\Bassis Advance\5-12-2014\Project\Project\bin\System.Web.WebPages.Razor.dll
+C:\Users\Hafiz\Desktop\Bassis Advance\5-12-2014\Project\Project\bin\WebGrease.dll
+C:\Users\Hafiz\Desktop\Bassis Advance\5-12-2014\Project\Project\bin\EntityFramework.xml
+C:\Users\Hafiz\Desktop\Bassis Advance\5-12-2014\Project\Project\bin\EntityFramework.SqlServer.xml
+C:\Users\Hafiz\Desktop\Bassis Advance\5-12-2014\Project\Project\bin\System.Web.Helpers.xml
+C:\Users\Hafiz\Desktop\Bassis Advance\5-12-2014\Project\Project\bin\System.Web.Mvc.xml
+C:\Users\Hafiz\Desktop\Bassis Advance\5-12-2014\Project\Project\bin\System.Web.Optimization.xml
+C:\Users\Hafiz\Desktop\Bassis Advance\5-12-2014\Project\Project\bin\System.Web.Razor.xml
+C:\Users\Hafiz\Desktop\Bassis Advance\5-12-2014\Project\Project\bin\System.Web.WebPages.xml
+C:\Users\Hafiz\Desktop\Bassis Advance\5-12-2014\Project\Project\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Hafiz\Desktop\Bassis Advance\5-12-2014\Project\Project\bin\System.Web.WebPages.Razor.xml
+C:\Users\Hafiz\Desktop\Bassis Advance\5-12-2014\Project\Project\bin\Antlr3.Runtime.pdb
+C:\Users\Hafiz\Desktop\Bassis Advance\5-12-2014\Project\Project\bin\Newtonsoft.Json.xml
+C:\Users\Hafiz\Desktop\Bassis Advance\5-12-2014\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+C:\Users\Hafiz\Desktop\Bassis Advance\5-12-2014\Project\Project\obj\Debug\Project.Migrations.Deppartments.resources
+C:\Users\Hafiz\Desktop\Bassis Advance\5-12-2014\Project\Project\obj\Debug\Project.Migrations.update_department.resources
+C:\Users\Hafiz\Desktop\Bassis Advance\5-12-2014\Project\Project\obj\Debug\Project.Migrations.courseInfo.resources
+C:\Users\Hafiz\Desktop\Bassis Advance\5-12-2014\Project\Project\obj\Debug\Project.Migrations.departmentCourse.resources
+C:\Users\Hafiz\Desktop\Bassis Advance\5-12-2014\Project\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+C:\Users\Hafiz\Desktop\Bassis Advance\5-12-2014\Project\Project\obj\Debug\Project.dll
+C:\Users\Hafiz\Desktop\Bassis Advance\5-12-2014\Project\Project\obj\Debug\Project.pdb
